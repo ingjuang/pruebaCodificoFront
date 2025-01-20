@@ -6,9 +6,9 @@ Este proyecto es una aplicación de predicción de fechas de ventas construida c
 
 Asegúrate de tener instaladas las siguientes herramientas en tu sistema:
 
-- **Node.js**: v14.17.0 o superior
-- **npm**: v6.14.13 o superior
-- **Angular CLI**: v12.0.0 o superior
+- **Node.js**: v20.15.1 o superior
+- **npm**: v10.8.2 o superior
+- **Angular CLI**: v19.1.2 o superior
 
 ## Instalación
 
