@@ -32,7 +32,6 @@
       (matSortChange)="announceSortChange($event)"
       class="mat-elevation-z8"
     >
-      <!-- Position Column -->
       <ng-container matColumnDef="companyName">
         <th
           mat-header-cell
@@ -45,7 +44,6 @@
         <td mat-cell *matCellDef="let element">{{ element.companyName }}</td>
       </ng-container>
 
-      <!-- Name Column -->
       <ng-container matColumnDef="lastOrderDate">
         <th
           mat-header-cell
@@ -58,7 +56,6 @@
         <td mat-cell *matCellDef="let element">{{ element.lastOrderDate }}</td>
       </ng-container>
 
-      <!-- Weight Column -->
       <ng-container matColumnDef="nextPredictedOrder">
         <th
           mat-header-cell
@@ -73,7 +70,6 @@
         </td>
       </ng-container>
 
-      <!-- Symbol Column -->
       <ng-container matColumnDef="action">
         <th mat-header-cell *matHeaderCellDef></th>
         <td mat-cell *matCellDef="let element">    <button mat-button (click)="viewOrders(element.custId, element.companyName)">View Orders</button>
