@@ -22,9 +22,11 @@ Sigue estos pasos para clonar el repositorio y configurar el proyecto:
 2. **Instala las dependencias**
 
    ## Intalación
+   ```sh
    npm install
 
-   ## Ejecución
+  ## Ejecución
+   ```sh
    ng serve
 
 ## Dentro de este repositorio está la solución del reto de las barras con D3, el archivo se llama: grafico-barras-D3.html
