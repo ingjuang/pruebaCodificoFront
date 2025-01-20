@@ -27,4 +27,5 @@ Sigue estos pasos para clonar el repositorio y configurar el proyecto:
    ## Ejecución
    ng serve
 
+## Dentro de este repositorio está la solución del reto de las barras con D3, el archivo se llama: grafico-barras-D3.html
    
