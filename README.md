@@ -18,7 +18,7 @@ Sigue estos pasos para clonar el repositorio y configurar el proyecto:
 
    ```sh
    git clone (https://github.com/ingjuang/pruebaCodificoFront.git)
-   cd SalesDatePredictionFront
+   cd pruebaCodificoFront
 2. **Instala las dependencias**
 
    ## Intalación
